@@ -14,6 +14,6 @@ Skills: HTML, CSS, JS, C++, Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SympYcz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SympYcz&show_icons=true&theme=customizing))  
+![GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SympYcz&show_icons=true&theme=dark))  
 
 ![Profile views](https://gpvc.arturio.dev/SympYcz)  
