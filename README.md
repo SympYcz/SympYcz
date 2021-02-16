@@ -1,12 +1,12 @@
 ### Hi there 👋, .
 #### Welcome on my profile
 Hi, my name is Jakub and i am 17 y.o.
-My hobbies are playing computer games, working in JavaScript, Java, HTML, CSS and more. I also like to ride a turkey. I often spend time at the computer and improve my knowledge. I hope that's enough for you. : D Have a nice rest of the day
+My hobbies are playing computer games, working in JavaScript, Java, HTML, CSS and more. I also like to ride a turkey. I often spend time at the computer and improve my knowledge. I hope that's enough for you. : D Have a nice rest of the day.
 
-Skills: HTML, CSS, JS, C++
+Skills: HTML, CSS, JS, C++, Python
 
 - 🔭 I’m currently working on discord python bot 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python 
 - ⚡ Fun fact: I am from CZ 
 
 
