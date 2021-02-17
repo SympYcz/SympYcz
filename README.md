@@ -1,4 +1,4 @@
-### Hi there 👋, .
+<div align=”center”>### Hi there 👋, .
 #### Welcome on my profile
 Hi, my name is Jakub and i am 17 y.o.
 My hobbies are playing computer games, working in JavaScript, Java, HTML, CSS and more. I also like to ride a turkey. I often spend time at the computer and improve my knowledge. I hope that's enough for you. : D Have a nice rest of the day.
@@ -17,3 +17,4 @@ Skills: HTML, CSS, JS, C++, Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SympYcz&show_icons=true&theme=dark)
 
 ![Profile views](https://gpvc.arturio.dev/SympYcz)  
+</div>
