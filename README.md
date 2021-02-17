@@ -1,4 +1,4 @@
-<div style="text-align:center">![](https://i.imgur.com/ay0wSmp_d.webp?maxwidth=760&fidelity=grand)</div>
+<img src="https://i.imgur.com/ay0wSmp_d.webp?maxwidth=760&fidelity=grand" align=”center”>
 Hi, my name is Jakub and i am 17 y.o.
 My hobbies are playing computer games, working in JavaScript, Java, HTML, CSS and more. I also like to ride a turkey. I often spend time at the computer and improve my knowledge. I hope that's enough for you. : D Have a nice rest of the day.
 
